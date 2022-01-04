@@ -52,9 +52,12 @@ background-repeat: no-repeat;
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 10px;
-    border-left: 10px solid;
+    border-left: 10px solid skyblue;
    
     
+}
+#full-developer{
+    border-left: 10px solid blue;
 }
 
 h2{
@@ -65,4 +68,9 @@ h2{
     background-image: url(edit5.png);
     background-repeat: no-repeat;
     
+}
+
+footer p {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.767);
 }
