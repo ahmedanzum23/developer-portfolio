@@ -1,0 +1,37 @@
+body{
+    /* for font change */
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+/* for font size(welcome) */
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orangered;
+}
+/* section for part1 */
+section{
+    display:flex;
+}
+.part1{
+    width: 50%;
+    padding-left: 5%;
+}
+.part1 img{
+    width: 90%;
+}
+.press-button{
+    text-decoration: none;
+    background-color: aqua ;
+    padding: 10px 40px;
+    border-radius:5px ;
+    /* pressbutton color */
+    color: black;
+    font-weight: 700;
+}
+/* add top picture */
+.add-top-picture{
+background-image: url(edit5.png);
+background-repeat: no-repeat;
+}
